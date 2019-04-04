@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/canada-ca/aia-eia.svg?branch=master)](https://travis-ci.com/canada-ca/aia-eia/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgcharest%2Faia-eia.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgcharest%2Faia-eia?ref=badge_shield)
 
 ([Français](#gabarit-pour-dépôts-de-code-source-ouvert-du-gouvernement-du-canada))
 
@@ -30,6 +31,9 @@ Unless otherwise noted, the source code of this project is covered under Crown C
 The Canada wordmark and related graphics associated with this distribution are protected under trademark law and copyright law. No permission is granted to use them outside the parameters of the Government of Canada's corporate identity program. For more information, see [Federal identity requirements](https://www.canada.ca/en/treasury-board-secretariat/topics/government-communications/federal-identity-requirements.html).
 
 ______________________
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgcharest%2Faia-eia.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgcharest%2Faia-eia?ref=badge_large)
 
 # Évaluation de l'incidence algorithmique
 
